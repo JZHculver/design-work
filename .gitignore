@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+bin
+logs
+node_modules
+static/scripts/index.min.js*
+static/styles
+npm-debug.log
+
+# Exclude compiled files
+build
+
+# Exclude IDE project folders
+.happypack
+.idea
+.vscode
+.project
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_STORE
+
+.js.map
+
+# vi files
+.tern-project
+*.swp
